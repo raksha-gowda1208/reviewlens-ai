@@ -1,0 +1,47 @@
+review_text,product_name,datetime,source,region,rating
+"बैटरी बहुत बढ़िया है! पूरा दिन चलती है",Wireless Headphones,2024-03-15 10:30:00,Amazon,North,5
+"Awesome sound quality! Best purchase ever",Wireless Headphones,2024-03-15 14:15:00,Flipkart,South,5
+"Delivery was super fast",Wireless Headphones,2024-03-16 09:45:00,Amazon,East,4
+"ಬ್ಯಾಟರಿ ಅದ್ಭುತವಾಗಿದೆ! ದಿನವಿಡೀ ಕೆಲಸ ಮಾಡುತ್ತದೆ",Wireless Headphones,2024-03-16 18:30:00,Flipkart,South,5
+"बहुत बेकार product है! 2 दिन में खराब",Wireless Headphones,2024-03-17 08:15:00,Amazon,North,1
+"Great, just what I needed... another broken charger",Wireless Headphones,2024-03-17 22:00:00,Flipkart,West,2
+"Service was pathetic, no response",Wireless Headphones,2024-03-18 11:30:00,Amazon,East,1
+"Battery backup is excellent",Wireless Headphones,2024-03-18 16:45:00,Flipkart,South,5
+"ಪ್ಯಾಕೇಜಿಂಗ್ ಕೆಟ್ಟದಾಗಿತ್ತು, ಬಾಕ್ಸ್ ಹರಿದಿತ್ತು",Wireless Headphones,2024-03-19 07:30:00,Amazon,South,2
+"Not worth the money. Cheap quality",Wireless Headphones,2024-03-19 20:15:00,Flipkart,West,2
+"Amazing product! Will buy again",Wireless Headphones,2024-03-20 13:00:00,Amazon,North,5
+"बैटरी चार्ज नहीं हो रही है, बिल्कुल बेकार",Wireless Headphones,2024-03-20 23:30:00,Flipkart,East,1
+"ಕ್ಯಾಮೆರಾ ಅದ್ಭುತವಾಗಿದೆ! ಅತ್ಯುತ್ತಮ ಗುಣಮಟ್ಟ",Smartphone,2024-03-15 12:00:00,Amazon,South,5
+"Display is gorgeous, colors pop",Smartphone,2024-03-15 15:30:00,Flipkart,West,5
+"Phone heats up too much while gaming",Smartphone,2024-03-16 10:00:00,Amazon,North,2
+"बहुत अच्छा फोन है! सब कुछ परफेक्ट",Smartphone,2024-03-16 19:45:00,Flipkart,East,5
+"Battery drains fast, need to charge twice",Smartphone,2024-03-17 09:30:00,Amazon,South,2
+"Fantastic phone... if you like lag and crashes",Smartphone,2024-03-17 21:00:00,Flipkart,West,1
+"Software is buggy, freezes every 5 minutes",Smartphone,2024-03-18 08:00:00,Amazon,North,2
+"Value for money! Best phone under 15000",Smartphone,2024-03-19 11:15:00,Amazon,West,5
+"ಕ್ಯಾಮೆರಾ ಮೋಸವಾಗಿದೆ, ಫೋಟೋ ಅಸ್ಪಷ್ಟವಾಗಿದೆ",Smartphone,2024-03-19 17:30:00,Flipkart,South,2
+"Delivery took 15 days, very disappointed",Smartphone,2024-03-20 07:00:00,Amazon,North,2
+"Great phone overall, highly recommended",Smartphone,2024-03-20 22:30:00,Flipkart,East,5
+"ಬಿಲ್ಕುಲ್ ಪೈಸೆ ವ್ಯರ್ಥ, ಫೋನ್ 1 ವಾರದಲ್ಲಿ ಸತ್ತುಹೋಯಿತು",Smartphone,2024-03-21 06:30:00,Amazon,South,1
+"ಪ್ಯಾಕೇಜಿಂಗ್ ಚೆನ್ನಾಗಿತ್ತು, ಆದರೆ ಉತ್ಪನ್ನ ಕೆಟ್ಟದು",Smart Speaker,2024-03-15 09:00:00,Flipkart,East,2
+"Sound quality is amazing for this price",Smart Speaker,2024-03-15 20:15:00,Amazon,West,5
+"Setup was very easy, took 2 minutes",Smart Speaker,2024-03-16 11:30:00,Flipkart,North,5
+"Voice recognition works perfectly",Smart Speaker,2024-03-16 16:45:00,Amazon,South,5
+"Speaker volume is too low, not satisfied",Smart Speaker,2024-03-17 08:30:00,Flipkart,East,2
+"बहुत बढ़िया आवाज़ है! पार्टी के लिए परफेक्ट",Smart Speaker,2024-03-17 23:00:00,Amazon,West,5
+"Another speaker with connectivity issues",Smart Speaker,2024-03-18 07:15:00,Flipkart,North,2
+"Bluetooth keeps disconnecting",Smart Speaker,2024-03-18 19:00:00,Amazon,South,2
+"Great speaker, just great... if you like constant beeping",Smart Speaker,2024-03-19 10:30:00,Flipkart,East,1
+"Battery life is terrible, lasts only 2 hours",Smart Speaker,2024-03-19 15:00:00,Amazon,West,2
+"ಪ್ಯಾಕೇಜಿಂಗ್ ಕೆಟ್ಟದಾಗಿತ್ತು, ಸ್ಪೀಕರ್ ಮುರಿದು ಬಂದಿದೆ",Smart Speaker,2024-03-20 12:30:00,Flipkart,South,1
+"Awesome product! Must buy for music lovers",Smart Speaker,2024-03-20 21:00:00,Amazon,North,5
+"Worst purchase ever. Stopped working in 2 days",Smart Speaker,2024-03-21 06:00:00,Flipkart,East,1
+"FREE IPHONE GIVEAWAY!!! Click here http://fake.com",Smart Speaker,2024-03-15 03:00:00,Spam,Unknown,1
+"ಪ್ಯಾಕೇಜಿಂಗ್ ತುಂಬಾ ಕೆಟ್ಟದಾಗಿತ್ತು",Smart Speaker,2024-03-17 08:00:00,Amazon,South,2
+"ಪ್ಯಾಕೇಜಿಂಗ್ ಹರಿದಿತ್ತು, ವಸ್ತು ಚದುರಿಹೋಗಿತ್ತು",Smart Speaker,2024-03-18 14:00:00,Flipkart,South,1
+"Packaging damaged again! Getting frustrating",Smart Speaker,2024-03-19 09:30:00,Amazon,West,1
+"ಪ್ಯಾಕೇಜಿಂಗ್ ಬಿಲ್ಕುಲ್ ಬೇಕಾರ್, ಉತ್ಪನ್ನ ಮುರಿದಿದೆ",Smart Speaker,2024-03-20 18:00:00,Flipkart,South,1
+"Worst packaging ever seen in my life",Smart Speaker,2024-03-21 11:00:00,Amazon,East,1
+"ಪ್ಯಾಕೇಜಿಂಗ್ ನಲ್ಲಿ ಸುಧಾರಣೆ ಬೇಕು",Smart Speaker,2024-03-22 07:30:00,Flipkart,South,2
+"Packaging complaints are increasing daily",Smart Speaker,2024-03-23 22:00:00,Amazon,West,1
+"Please improve your packaging quality",Smart Speaker,2024-03-24 13:00:00,Flipkart,North,2
